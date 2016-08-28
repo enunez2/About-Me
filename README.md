@@ -1,12 +1,12 @@
 #
   
   # Name of your site (displayed in the header)
- -name: Libby Hemphill
+ -name: Elissa Nunez
  +name: Research Methods in Digital Humanities Fall 2016
   
   # Short bio or description (displayed in the header)
- -description: instructor for HUM 380-COM 601
- +description: class blog for HUM 380-COM 601. photo credit Worcester Polytechnic Institute.
+ -description: student in HUM 380
+ +description: class blog for HUM 380-COM 601
   
   # URL of your avatar or profile pic (you could use your GitHub profile pic)
  -avatar: https://avatars3.githubusercontent.com/u/182478?v=3&s=460
@@ -15,16 +15,11 @@
   #
   # Flags below are optional
  @@ -21,12 +21,12 @@ footer-links:
-    email:
-    facebook:
-    flickr:
- -  github: libbyh
- +  github: 
-    instagram:
-    linkedin:
-    pinterest:
+    email: enunez2@hawk.iit.edu
+ -  github: enunez2
+
     rss: # just type anything here for a working RSS icon
- -  twitter: libbyh
+ -  twitter: 
  +  twitter: 
     stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
     youtube: # channel/<your_long_string> or user/<user-name>
